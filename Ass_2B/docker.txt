@@ -1,0 +1,16 @@
+2B _WAD
+docker -v
+docker images
+docker ps
+docker pull openjdk
+docker images
+docker ps
+docker run --name MYIMAGE -it -d openjdk
+docker images
+docker ps
+jshell
+docker images
+/exit
+docker images
+docker stop a35d4b6b06a6
+docker container rm a35d4b6b06a6

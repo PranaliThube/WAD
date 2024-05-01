@@ -1,0 +1,9 @@
+Ass_2C_WAD
+
+npm --version
+npm install -g @angular/cli@latest
+ng new part-c
+enter yes
+cd part-c
+ng serve
+y

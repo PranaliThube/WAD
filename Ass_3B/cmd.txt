@@ -1,0 +1,13 @@
+cmd
+mongod --dhpath copypath
+
+*******
+create database -college
+and collection -IT
+*****
+
+vs code
+npm init -y
+npm install express
+npm install mongodb
+node index.js
