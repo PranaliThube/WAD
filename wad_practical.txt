@@ -1,0 +1,55 @@
+Ass_2A_wad
+
+echo "# pra" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PranaliThube/pra.git
+git push -u origin main
+
+******
+Ass_2B
+docker -v
+docker images
+docker ps
+docker pull openjdk
+docker images
+docker ps
+docker run --name MYIMAGE -it -d openjdk
+docker images
+docker ps
+jshell
+docker images
+/exit
+docker images
+docker stop a35d4b6b06a6
+docker container rm a35d4b6b06a6
+
+Ass_2C_WAD
+
+npm --version
+npm install -g @angular/cli@latest
+ng new part-c
+enter yes
+cd part-c
+ng serve
+y
+
+*****
+
+Ass_3A
+
+npm init -y
+npm install express
+node Server/server.js
+
+*****
+
+Ass_3B
+npm init -y 
+npm install express
+npm install mongodb
+node index.js
+
+
